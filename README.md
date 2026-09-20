@@ -28,11 +28,15 @@ The solution combines:
 - **Order & Inventory Processing:** Calculates order totals and deducts stock when confirmed orders are processed.
 - **Bulk Inventory Processing:** Uses scheduled Apex to process inventory updates efficiently in bulk.
 
+## Project Source Code
+
+The complete Salesforce project data and metadata are available in:
+
+`force-app/main/default`
+
+This folder contains the actual Salesforce implementation, including custom objects, fields, relationships, validation rules, tabs, Lightning application, profiles, roles, permission sets, email templates, flows, Apex classes, triggers, and workflow metadata.
+
 ### Documentation
-
-Detailed implementation steps, configuration, automation logic, Apex code, object relationships, and screenshots are available in the **[Documentation](./Documentation/)** folder.
-
-> Refer to the **[Documentation](./Documentation/)** folder for the complete implementation details of the HandsMen Threads Salesforce project.
 
 Detailed implementation steps, configuration, automation logic, Apex code, object relationships, and screenshots are available in the **`Documentation`** folder.
 
